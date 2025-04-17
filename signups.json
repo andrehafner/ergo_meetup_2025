@@ -9,7 +9,8 @@
     "sunday_breakfast": true,
     "needs_hotel_block": true
     "needs_hotel_block": true,
-    "number_hotel_nights_needed": '2'  },
+    "number_hotel_nights_needed": 2
+  },
   {
     "alias": "armeanio",
     "wallet": "9i65ZxcRfTP13UF8b2KhMbmXP6jk6NTUbpjSzXk7FJqYFWoZXX2",
@@ -19,6 +20,6 @@
     "saturday_dinner": true,
     "sunday_breakfast": true,
     "needs_hotel_block": false,
-    "number_hotel_nights_needed": '0'
+    "number_hotel_nights_needed": 0
   }
 ]
