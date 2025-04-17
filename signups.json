@@ -1,0 +1,24 @@
+[
+  {
+    "alias": "qx",
+    "wallet": "9fYvQMsMN3NNaw33cAFnRdyHy1DpxtxfADvGqUV3ocLptw4HpcP",
+    "friday_dinner": true,
+    "saturday_lunch": true,
+    "saturday_hike": true,
+    "saturday_dinner": true,
+    "sunday_breakfast": true,
+    "needs_hotel_block": true
+    "needs_hotel_block": true,
+    "number_hotel_nights_needed": '2'  },
+  {
+    "alias": "armeanio",
+    "wallet": "9i65ZxcRfTP13UF8b2KhMbmXP6jk6NTUbpjSzXk7FJqYFWoZXX2",
+    "friday_dinner": true,
+    "saturday_lunch": true,
+    "saturday_hike": true,
+    "saturday_dinner": true,
+    "sunday_breakfast": true,
+    "needs_hotel_block": false,
+    "number_hotel_nights_needed": '0'
+  }
+]
