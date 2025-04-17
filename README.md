@@ -66,8 +66,8 @@ Want to suggest a venue for meals? A cool Saturday activity? Fork this repo and 
 We're building this together — just like Ergo.
 
 ---
-
 Marc the Shark Suggestions:
 Red Leg Brewery has a great outside venue with food trucks
-Possible Trail for Hike: https://www.alltrails.com/trail/us/colorado/paul-intemann-nature-trail - Great views of Manitou and Colorado Springs. 
+[https://redlegbrewing.com/](https://redlegbrewing.com/)
 
+Possible Trail for Hike: [https://www.alltrails.com/trail/us/colorado/paul-intemann-nature-trail](https://www.alltrails.com/trail/us/colorado/paul-intemann-nature-trail) - Great views of Manitou and Colorado Springs.
