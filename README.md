@@ -24,7 +24,7 @@
 🍻 Dinner and drinks at _Phantom Brewing_ (suggested, open to ideas)
 
 **Saturday - October 11**  
-🏛️ Main Event @ _Community Event Hall 301 East Platte Ave.
+🏛️ Main Event @ _Community Event Hall 301 East Platte Ave.  
 🥪 Lunch  
 🥾 Optional afternoon hike in the mountains  
 🍽️ Group Dinner (TBD)
