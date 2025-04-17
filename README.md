@@ -24,7 +24,7 @@
 🍻 Dinner and drinks at _Phantom Brewing_ (suggested, open to ideas)
 
 **Saturday - October 11**  
-🏛️ Main Event @ _Community Event Hall XXX_  
+🏛️ Main Event @ _Community Event Hall 301 East Platte Ave.
 🥪 Lunch  
 🥾 Optional afternoon hike in the mountains  
 🍽️ Group Dinner (TBD)
@@ -49,8 +49,12 @@ Want to join us? Add yourself to [`signups.json`](./signups.json):
   "wallet": "your_ergo_wallet_address",
   "friday_dinner": true,
   "saturday_lunch": true,
+  "saturday_hike": true,
   "saturday_dinner": true,
-  "sunday_breakfast": false
+  "sunday_breakfast": true,
+  "needs_hotel_block": true
+  "needs_hotel_block": false,
+  "number_hotel_nights_needed": 0
 }
 ```
 
@@ -58,7 +62,7 @@ Want to join us? Add yourself to [`signups.json`](./signups.json):
 
 ## 💡 Got Ideas?
 
-Want to suggest a better brewery? A cool Saturday activity? Fork this repo and PR your edits to `README.md`!  
+Want to suggest a venue for meals? A cool Saturday activity? Fork this repo and PR your edits to `README.md`!  
 We're building this together — just like Ergo.
 
 ---
