@@ -7,7 +7,6 @@
     "saturday_hike": true,
     "saturday_dinner": true,
     "sunday_breakfast": true,
-    "needs_hotel_block": true
     "needs_hotel_block": true,
     "number_hotel_nights_needed": 2
   },
@@ -25,6 +24,17 @@
   {
     "alias": "marc the shark",
     "wallet": "9hT9YMEiGR6T6Thfdihn1X2B4XJTz4WNtE7USLyNHMrqjqpSjcK",
+    "friday_dinner": true,
+    "saturday_lunch": true,
+    "saturday_hike": true,
+    "saturday_dinner": true,
+    "sunday_breakfast": true,
+    "needs_hotel_block": false,
+    "number_hotel_nights_needed": 0
+  },
+  {
+    "alias": "arobsn",
+    "wallet": "9gScAWD2v57ZZYpdWQ3J2yAq9iJR55hD1PHemB4cVXf2cu3kCUz",
     "friday_dinner": true,
     "saturday_lunch": true,
     "saturday_hike": true,
