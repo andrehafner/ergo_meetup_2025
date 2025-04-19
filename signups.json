@@ -7,7 +7,6 @@
     "saturday_hike": true,
     "saturday_dinner": true,
     "sunday_breakfast": true,
-    "needs_hotel_block": true
     "needs_hotel_block": true,
     "number_hotel_nights_needed": 2
   },
