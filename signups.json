@@ -42,7 +42,7 @@
     "sunday_breakfast": true,
     "needs_hotel_block": false,
     "number_hotel_nights_needed": 0
-  }
+  },
   {
   "alias": "CannonQ",
   "wallet": "9fSWoM7h4mnQBJXzKAaGrVtB6qaQevmB7cZEjEVEAVgTKnYAF6P",
@@ -53,5 +53,5 @@
   "sunday_breakfast": true,
   "needs_hotel_block": true,
   "number_hotel_nights_needed": 2
-}
+  }
 ]
