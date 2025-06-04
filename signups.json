@@ -64,5 +64,16 @@
   "sunday_breakfast": true,
   "needs_hotel_block": false,
   "number_hotel_nights_needed": 0
+  },
+  {
+  "alias": "Cheese Enthusiast",
+  "wallet": "9hbJC2yuTmzErUn7jvd8BSAiwXqyiiRSPRDMCNKSNiKMtZG3n4X",
+  "friday_dinner": true,
+  "saturday_lunch": true,
+  "saturday_hike": true,
+  "saturday_dinner": true,
+  "sunday_breakfast": true,
+  "needs_hotel_block": false,
+  "number_hotel_nights_needed": 0
   }
 ]
