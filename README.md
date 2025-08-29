@@ -35,32 +35,32 @@ Welcome by Joe, meet and greet at the event hall
 First Speaker: LGD/MGPai: Palm Staking/Gluon Theorems  
 
 11am:  
-Food truck on site perhaps (provided or individual pay, depending on attendance - needs vote), beer can start flowing at this point (Joe has obtained the event Liquor License)
-Lunch Speaker: Cheese: Lithos Protocol Deep Dive
-Lunch Speaker 2: Cannon
+Food truck on site perhaps (provided or individual pay, depending on attendance - needs vote), beer can start flowing at this point (Joe has obtained the event Liquor License)  
+Lunch Speaker: Cheese: Lithos Protocol Deep Dive  
+Lunch Speaker 2: Cannon  
+
+  
+12:30pm:  
+Hackathon Kickoff "AI Hobby Devs VS Old Timer Devs"  
+qx() will open a sealed envelope describing a DAPP that should be built in under 1.5 hours.  
+  
+2:15pm:  
+Afternoon speaker: AnonBR: Machina Finance  
+  
+4:00pm:  
+Group hike at https://www.alltrails.com/trail/us/colorado/paul-intemann-nature-trail  
+51 minute out and back  
+  
+7:00pm:  
+Dinner at: Still taking in suggestions  (own pay)  
+  
+Sunday:  
+8:00am  
+Breakfast at Urban Egg (own pay, group reservation needed)  
 
 
-12:30pm:
-Hackathon Kickoff "AI Hobby Devs VS Old Timer Devs"
-qx() will open a sealed envelope describing a DAPP that should be built in under 1.5 hours.
-
-2:15pm:
-Afternoon speaker: AnonBR: Machina Finance
-
-4:00pm: 
-Group hike at https://www.alltrails.com/trail/us/colorado/paul-intemann-nature-trail
-51 minute out and back
-
-7:00pm:
-Dinner at: Still taking in suggestions  (own pay)
-
-Sunday:
-8:00am
-Breakfast at Urban Egg (own pay, group reservation needed)
-
-
-💡 Got Ideas?
-Want to suggest a venue for meals? A cool Saturday activity? Suggest below!
+💡 Got Ideas?  
+Want to suggest a venue for meals? A cool Saturday activity? Suggest below!  
 
 ---
 
