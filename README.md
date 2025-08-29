@@ -20,20 +20,21 @@
 
 ## 🗓️ Rough Schedule of Events
 
-A crowd sourced event for the entire Ergo ecosystem!
-Colorado Springs, Colorado
-October 11th, 2025
+A crowd sourced event for the entire Ergo ecosystem!  
+Colorado Springs, Colorado  
+October 11th, 2025  
+  
+Friday  
+Informal group dinner out!  
 
-Friday
-Informal group dinner out!
-Saturday 
-9am (breakfast on your own):
-Welcome by Joe, meet and greet at the event hall
+Saturday  
+9am (breakfast on your own):  
+Welcome by Joe, meet and greet at the event hall  
 
-10am:
-First Speaker: LGD/MGPai: Palm Staking/Gluon Theorems
+10am:  
+First Speaker: LGD/MGPai: Palm Staking/Gluon Theorems  
 
-11am:
+11am:  
 Food truck on site perhaps (provided or individual pay, depending on attendance - needs vote), beer can start flowing at this point (Joe has obtained the event Liquor License)
 Lunch Speaker: Cheese: Lithos Protocol Deep Dive
 Lunch Speaker 2: Cannon
