@@ -20,17 +20,46 @@
 
 ## 🗓️ Rough Schedule of Events
 
-**Friday - October 10**  
-🍻 Dinner and drinks at _Phantom Brewing_ (suggested, open to ideas)
+A crowd sourced event for the entire Ergo ecosystem!
+Colorado Springs, Colorado
+October 11th, 2025
 
-**Saturday - October 11**  
-🏛️ Main Event @ \_Community Event Hall 301 East Platte Ave.  
-🥪 Lunch  
-🥾 Optional afternoon hike in the mountains  
-🍽️ Group Dinner (TBD)
+Friday
+Informal group dinner out!
+Saturday 
+9am (breakfast on your own):
+Welcome by Joe, meet and greet at the event hall
 
-**Sunday - October 12**  
-🥞 Casual Breakfast before departures
+10am:
+First Speaker: LGD/MGPai: Palm Staking/Gluon Theorems
+
+11am:
+Food truck on site perhaps (provided or individual pay, depending on attendance - needs vote), beer can start flowing at this point (Joe has obtained the event Liquor License)
+Lunch Speaker: Cheese: Lithos Protocol Deep Dive
+Lunch Speaker 2: Cannon
+
+
+12:30pm:
+Hackathon Kickoff "AI Hobby Devs VS Old Timer Devs"
+qx() will open a sealed envelope describing a DAPP that should be built in under 1.5 hours.
+
+2:15pm:
+Afternoon speaker: AnonBR: Machina Finance
+
+4:00pm: 
+Group hike at https://www.alltrails.com/trail/us/colorado/paul-intemann-nature-trail
+51 minute out and back
+
+7:00pm:
+Dinner at: Still taking in suggestions  (own pay)
+
+Sunday:
+8:00am
+Breakfast at Urban Egg (own pay, group reservation needed)
+
+
+💡 Got Ideas?
+Want to suggest a venue for meals? A cool Saturday activity? Suggest below!
 
 ---
 
